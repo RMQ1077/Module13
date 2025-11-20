@@ -1,1 +1,4 @@
-
+Projects:
+1. Food journal with support for different diets, calories, macronutrients, and micronutrients. 
+2. 2D pixel platformer game.
+3. Interactive taxonomy library for Earth's organisms
